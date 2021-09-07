@@ -1,12 +1,13 @@
 <template>
-  <div>
-    
-  </div>
+  <v-container>
+    <h1>Welcome to the Home page</h1>
+  </v-container>
 </template>
+
 <script>
 export default {
-  data() {},
+  name: "Home",
+
+  components: {},
 };
 </script>
-
-<style></style>
